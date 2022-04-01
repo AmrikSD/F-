@@ -12,9 +12,15 @@ Take with a pinch of salt, hardly "projects"
 
 ## [Dockerize/](./Dockerize/)
 
+## [WebApi/](./WebApi/)
+
 # Resources
 
+[F# Documentation](https://docs.microsoft.com/en-gb/dotnet/fsharp/?WT.mc_id=dotnet-35129-website)
+
 [Learn F# - dotnet.microsoft.com](https://dotnet.microsoft.com/en-us/learn/fsharp)
+
+[F# For Fun and Profit](https://fsharpforfunandprofit.com/)
 
 [Railway Oriented Programming - Scott Wlaschin](https://www.youtube.com/watch?v=XFagoINwzHo)
 
