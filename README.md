@@ -16,6 +16,10 @@ https://dotnet.microsoft.com/en-us/learn/languages/fsharp-hello-world-tutorial/i
 
 https://docs.microsoft.com/en-gb/learn/modules/fsharp-first-steps/?WT.mc_id=dotnet-35129-website
 
+## [Dockerize/](./Dockerize/)
+
+A hello world example - but dockerized
+
 # Resources
 
 [Learn F# - dotnet.microsoft.com](https://dotnet.microsoft.com/en-us/learn/fsharp)
