@@ -10,18 +10,13 @@ Take with a pinch of salt, hardly "projects"
 
 ## [HelloWorld/](./HelloWorld/)
 
-https://dotnet.microsoft.com/en-us/learn/languages/fsharp-hello-world-tutorial/intro
-
-## "Write your first F# code"
-
-https://docs.microsoft.com/en-gb/learn/modules/fsharp-first-steps/?WT.mc_id=dotnet-35129-website
-
 ## [Dockerize/](./Dockerize/)
-
-A hello world example - but dockerized
 
 # Resources
 
 [Learn F# - dotnet.microsoft.com](https://dotnet.microsoft.com/en-us/learn/fsharp)
 
 [Railway Oriented Programming - Scott Wlaschin](https://www.youtube.com/watch?v=XFagoINwzHo)
+
+[Containerizing F# with Docker](https://www.codesuji.com/2020/03/08/F-and-Docker/)
+The images are out of date, so use the tutorial but make sure to get the _new_ images.
