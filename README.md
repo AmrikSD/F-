@@ -14,6 +14,8 @@ Take with a pinch of salt, hardly "projects"
 
 ## [WebApi/](./WebApi/)
 
+## [Database/](./Database/)
+
 # Resources
 
 [F# Documentation](https://docs.microsoft.com/en-gb/dotnet/fsharp/?WT.mc_id=dotnet-35129-website)
@@ -26,3 +28,5 @@ Take with a pinch of salt, hardly "projects"
 
 [Containerizing F# with Docker](https://www.codesuji.com/2020/03/08/F-and-Docker/)
 The images are out of date, so use the tutorial but make sure to get the _new_ images.
+
+[Npgsql.FSharp - F# API to work with PostgreSQL](https://zaid-ajaj.github.io/Npgsql.FSharp/#/)
