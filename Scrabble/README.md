@@ -8,8 +8,8 @@ Given a word, write a function to compute the Scrabble score for that word.
 
 You will need the following:
 
-|Letter                        | Score |
-|------------------------------|-------|
+| Letter                       | Score |
+| ---------------------------- | ----- |
 | A, E, I, O, U, L, N, R, S, T | 1     |
 | D, G                         | 2     |
 | B, C, M, P                   | 3     |
@@ -17,3 +17,7 @@ You will need the following:
 | K                            | 5     |
 | J, X                         | 8     |
 | Q, Z                         | 10    |
+
+Example "cabbage" would be worth 14 points.
+
+Potentially extend it to be able to specify a double or triple letter, and be able to specify a double or triple word.
