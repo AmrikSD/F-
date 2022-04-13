@@ -16,6 +16,8 @@ Take with a pinch of salt, hardly "projects"
 
 ## [Database/](./Database/)
 
+## [Scrabble](./Scrabble/)
+
 # Resources
 
 [F# Documentation](https://docs.microsoft.com/en-gb/dotnet/fsharp/?WT.mc_id=dotnet-35129-website)
