@@ -16,7 +16,9 @@ Take with a pinch of salt, hardly "projects"
 
 ## [Database/](./Database/)
 
-## [Scrabble](./Scrabble/)
+## [Scrabble/](./Scrabble/)
+
+## [Leetcode/](./Leetcode/)
 
 # Resources
 
