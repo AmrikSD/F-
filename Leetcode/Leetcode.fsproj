@@ -10,4 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="./Solutions/Solutions.fsproj" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FsUnit.xUnit" Version="5.0.0" />
+  </ItemGroup>
 </Project>
