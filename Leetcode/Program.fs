@@ -1,4 +1,3 @@
 ﻿open Solutions
 
-printfn "%s" (Utils.echo "wowee")
-printfn "Hello from F#"
+printfn "Run 'dotnet test' to check see which problems pass and fail."
