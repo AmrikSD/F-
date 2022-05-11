@@ -10,7 +10,7 @@ Although this is not robust or a good way of going about this, I'm right now cal
 | Status | Problem                                                     | Solution                                         |
 | ------ | ----------------------------------------------------------- | ------------------------------------------------ |
 | Done   | Contains Duplicate                                          | [Link](./Solutions/Easy/Contains%20Duplicate.fs) |
-|        | Missing Number                                              |                                                  |
+| Done   | Missing Number                                              | [Link](./Solutions/Easy/Missing%20Number.fs)     |
 |        | Find All Numbers Disappeared in an Array                    |                                                  |
 |        | Single Number                                               |                                                  |
 |        | Climbing Stairs                                             |                                                  |
