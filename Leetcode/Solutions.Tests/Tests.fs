@@ -6,8 +6,6 @@ open Solutions
 [<Fact>]
 let ``My test`` () = Assert.True(true)
 
-
-
 [<Theory>]
 [<InlineData(1, 1)>]
 [<InlineData("hi", "hi")>]
