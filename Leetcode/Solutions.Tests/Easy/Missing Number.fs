@@ -1,4 +1,4 @@
-module ContainsDuplicate
+module MissingNumber
 
 
 open Solutions
@@ -10,12 +10,9 @@ open Xunit
 type TestCases() =
     let values: seq<obj []> =
         seq {
-            yield [| [| 1; 2; 3; 1 |]; true |]
-            yield [| [| 1; 2; 3; 4 |]; false |]
-
-            yield
-                [| [| 1; 1; 1; 3; 3; 4; 3; 2; 4; 2 |]
-                   true |]
+            yield [| [| 3; 0; 1 |]; 2 |]
+            yield [| [| 0; 1 |]; 2 |]
+            yield [| [| 9; 6; 4; 2; 3; 5; 7; 0; 1 |]; 8 |]
         }
 
     interface seq<obj []> with
@@ -27,5 +24,5 @@ type TestCases() =
 module Theories =
     [<Theory>]
     [<ClassData(typeof<TestCases>)>]
-    let ``given an array it should be able to pass it to the test`` (input: int array, expected: bool) : unit =
-        Assert.Equal(ContainsDuplicate.containsDuplicate input, expected)
+    let ``given an array it should be able to pass it to the test`` (input: int array, expected: int) : unit =
+        Assert.Equal(MissingNumber.missingNumber input, expected)
