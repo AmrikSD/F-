@@ -10,6 +10,7 @@ nupkg/
 
 # ionide
 .ionide
+TestResults
 
 # Rider
 .idea

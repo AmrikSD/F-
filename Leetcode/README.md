@@ -3,6 +3,8 @@
 - https://seanprashad.com/leetcode-patterns/
 - https://github.com/AmrikSD/F-/issues
 
+Although this is not robust or a good way of going about this, I'm right now calling the solution "Done" if it passes all of the example test case in leetcode. In the future I may look at trying to transpile to C# to be able to submit and see properly.
+
 # Status of each Problem
 
 | Status | Problem                                                     | Solution |
