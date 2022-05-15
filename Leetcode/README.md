@@ -13,7 +13,7 @@ Although this is not robust or a good way of going about this, I'm right now cal
 | Done   | Missing Number                                              | [Link](./Solutions/Easy/Missing%20Number.fs)     |
 |        | Find All Numbers Disappeared in an Array                    |                                                  |
 |        | Single Number                                               |                                                  |
-|        | Climbing Stairs                                             |                                                  |
+| Done   | Climbing Stairs                                             | [Link](./Solutions/Easy/Climbing%20Stairs.fs)    |
 |        | Best Time to Buy and Sell Stock                             |                                                  |
 |        | Maximum Subarray                                            |                                                  |
 |        | Range Sum Query - Immutable                                 |                                                  |
