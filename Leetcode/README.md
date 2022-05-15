@@ -11,7 +11,7 @@ Although this is not robust or a good way of going about this, I'm right now cal
 | ------ | ----------------------------------------------------------- | ------------------------------------------------ |
 | Done   | Contains Duplicate                                          | [Link](./Solutions/Easy/Contains%20Duplicate.fs) |
 | Done   | Missing Number                                              | [Link](./Solutions/Easy/Missing%20Number.fs)     |
-|        | Find All Numbers Disappeared in an Array                    |                                                  |
+| Done   | Find All Numbers Disappeared in an Array                    | [Link](./Solutions/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.fs)|
 |        | Single Number                                               |                                                  |
 |        | Climbing Stairs                                             |                                                  |
 |        | Best Time to Buy and Sell Stock                             |                                                  |
