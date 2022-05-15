@@ -12,7 +12,7 @@ Although this is not robust or a good way of going about this, I'm right now cal
 | Done   | Contains Duplicate                                          | [Link](./Solutions/Easy/Contains%20Duplicate.fs) |
 | Done   | Missing Number                                              | [Link](./Solutions/Easy/Missing%20Number.fs)     |
 |        | Find All Numbers Disappeared in an Array                    |                                                  |
-|        | Single Number                                               |                                                  |
+| Done   | Single Number                                               | [Link](./Solutions/Easy/Single%20Number.fs)      |
 |        | Climbing Stairs                                             |                                                  |
 |        | Best Time to Buy and Sell Stock                             |                                                  |
 |        | Maximum Subarray                                            |                                                  |
